@@ -1,0 +1,11 @@
+.wrapper {
+  border: 1px solid red;
+  width: 80%;
+  margin: 5vh auto;
+}
+
+.header {
+  color: red;
+  text-align: center;
+  font-size: 4rem;
+}
