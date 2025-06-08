@@ -6,7 +6,7 @@ const StarRating = () => {
 
   return (
     <>
-      <p className="header">Star Rating</p>
+      <p className="text-3xl text-center">Star Rating</p>
       {[...Array(starCount)].map((_, index) => {
         const isSelected = index < selectedStars;
 
